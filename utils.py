@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jan  6 13:34:37 2019
-
-@author: chenying
-"""
 import os
 import SimpleITK as sitk
 from math import ceil 
