@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jun  7 16:27:12 2022
 
-@author: CY
-"""
 import numpy as np
 
 def metric_iou_dice(prediction, target):
